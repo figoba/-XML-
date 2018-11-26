@@ -1,0 +1,93 @@
+{
+	"factory": "CMZ00A2R",
+	"line": "XT-113",
+	"uut_info": {
+		"work_order": "SPZS06311C1",
+		"uut_type": "0",
+		"uut_name": "SFP+",
+		"uut_code": "04050185",
+		"serial_number": "1904050185/Z00A2R1828S001573",
+		"supplier":"CMZ00A2R"
+	},
+	"ate_info": {
+		"ate_name": "BU10-UPFORHW.luxshare.com.cn"
+	},
+	"program_info": {
+		"program_name": "VNA",
+		"program_ver": "1.0.0.0"
+	},
+	"uut_result": {
+		"operator": "C040345",
+		"operation_sequence": "1",
+		"site_code": "MP1",
+		"start_time": "2018-07-12 05:07:22",
+		"stop_time": "2018-07-12 05:07:28",
+		"test_result": "passed"
+	},
+	"test_item_list": [{
+		"id": "1",
+		"item_name": "Differential Impedance Cable",
+		"start_time": "2018-07-12 05:07:22",
+		"stop_time": "2018-07-12 05:07:28",
+		"test_result": "passed",
+		"result_desc": "Differential Impedance Cable",
+		"value_flag": "N",
+		"sub_test_item_list": [{
+			"id": "1",
+			"sub_item_name": "Cable area_TD:ZDD11",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "10000000.00000",
+			"value_flag": "Y",
+			"lower_limit": "0",
+			"upper_limit": "200",
+			"test_value": "100"
+		},
+		{
+			"id": "2",
+			"sub_item_name": "Cable area_TD:ZDD11",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "20000000.00000",
+			"value_flag": "Y",
+			"lower_limit": "0",
+			"upper_limit": "20",
+			"test_value": "15"
+		}]
+	},
+		{
+		"id": "2",
+		"item_name": "Next",
+		"start_time": "2018-07-12 05:07:22",
+		"stop_time": "2018-07-12 05:07:28",
+		"test_result": "passed",
+		"result_desc": "Next",
+		"value_flag": "N",
+		"sub_test_item_list": [{
+			"id": "1",
+			"sub_item_name": "Next_TX-RX",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "10000000.00000",
+			"value_flag": "Y",
+			"lower_limit": "0",
+			"upper_limit": "200",
+			"test_value": "100"
+		},
+		{
+			"id": "2",
+			"sub_item_name": "Next_TX-RX",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "20000000.00000",
+			"value_flag": "Y",
+			"lower_limit": "0",
+			"upper_limit": "20",
+			"test_value": "15"
+		}]
+	}]
+}

@@ -1,0 +1,83 @@
+[项目窗口数据(_D)]
+ProjectExplorer.ClassicPosition[String] = "95,140,929,870"
+
+[AB_Cache_{6F27D349-3B59-4FF4-B840-BF7D779E2E62}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "f2a33832e0afd5429986d596edb2eafa"
+Cache_GenFile_Count[Integer] = 5
+Cache_GenFile[0][Path] = "/D/gitProjects/builds/异步XML处理/SI XML/SI XML.exe"
+Cache_GenFile[1][Path] Line0001 = "/D/gitProjects/builds/异步XML处理/SI XML/SI "
+Cache_GenFile[1][Path] Line0002 = "XML.aliases"
+Cache_GenFile[2][Path] = "/D/gitProjects/builds/异步XML处理/SI XML/SI XML.ini"
+Cache_GenFile[3][Path] = "/D/gitProjects/builds/异步XML处理/SI XML/SI XML.tlb"
+Cache_GenFile[4][Path] Line0001 = "/D/gitProjects/builds/异步XML处理/SI XML/dat"
+Cache_GenFile[4][Path] Line0002 = "a/lvzlib.dll"
+Cache_GenGUID_Count[Integer] = 5
+Cache_GenGUID[0][String] = "{143E7F2A-5D22-4B0E-B43C-4C6FCF8C7D94}"
+Cache_GenGUID[1][String] = "{E13194A5-C7D3-4E2D-8230-E3D69FDF0C86}"
+Cache_GenGUID[2][String] = "{71900164-787F-466C-A7A8-2AD251D5AEDF}"
+Cache_GenGUID[3][String] = ""
+Cache_GenGUID[4][String] = ""
+Cache_OutputDir[Path] = "/D/gitProjects/builds/异步XML处理/SI XML"
+
+[AB_Cache_{2D47E725-C769-40B1-8615-2D739CFB24B1}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "f2a33832e0afd5429986d596edb2eafa"
+Cache_GenFile_Count[Integer] = 5
+Cache_GenFile[0][Path] = "/D/gitProjects/builds/异步XML处理/SI XML/SI XML.exe"
+Cache_GenFile[1][Path] Line0001 = "/D/gitProjects/builds/异步XML处理/SI XML/SI "
+Cache_GenFile[1][Path] Line0002 = "XML.aliases"
+Cache_GenFile[2][Path] = "/D/gitProjects/builds/异步XML处理/SI XML/SI XML.ini"
+Cache_GenFile[3][Path] = "/D/gitProjects/builds/异步XML处理/SI XML/SI XML.tlb"
+Cache_GenFile[4][Path] Line0001 = "/D/gitProjects/builds/异步XML处理/SI XML/dat"
+Cache_GenFile[4][Path] Line0002 = "a/lvzlib.dll"
+Cache_GenGUID_Count[Integer] = 5
+Cache_GenGUID[0][String] = "{143E7F2A-5D22-4B0E-B43C-4C6FCF8C7D94}"
+Cache_GenGUID[1][String] = "{E13194A5-C7D3-4E2D-8230-E3D69FDF0C86}"
+Cache_GenGUID[2][String] = "{71900164-787F-466C-A7A8-2AD251D5AEDF}"
+Cache_GenGUID[3][String] = ""
+Cache_GenGUID[4][String] = ""
+Cache_OutputDir[Path] = "/D/gitProjects/builds/异步XML处理/SI XML"
+
+[AB_Cache_{40127B2D-8AC3-493E-B58F-4ACC480D5C5A}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "09c6d24db5ff0ec22ded7d498eab4ff2"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] Line0001 = "/D/gitProjects/builds/异步TGAJson处理/JX Jso"
+Cache_GenFile[0][Path] Line0002 = "n/异步Jsonl处理.exe"
+Cache_GenFile[1][Path] Line0001 = "/D/gitProjects/builds/异步TGAJson处理/JX Jso"
+Cache_GenFile[1][Path] Line0002 = "n/异步Jsonl处理.aliases"
+Cache_GenFile[2][Path] Line0001 = "/D/gitProjects/builds/异步TGAJson处理/JX Jso"
+Cache_GenFile[2][Path] Line0002 = "n/异步Jsonl处理.ini"
+Cache_GenFile[3][Path] Line0001 = "/D/gitProjects/builds/异步TGAJson处理/JX Jso"
+Cache_GenFile[3][Path] Line0002 = "n/data/HuaWeiJXPostBack.dll"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{1A8A09B8-55D1-4A85-A9A5-40AAB4A8549A}"
+Cache_GenGUID[1][String] = "{384BCA01-45A8-4525-966C-038B8F61C44B}"
+Cache_GenGUID[2][String] = "{8628C181-8B7E-463D-9533-AD2039AA9836}"
+Cache_GenGUID[3][String] = ""
+Cache_OutputDir[Path] = "/D/gitProjects/builds/异步TGAJson处理/JX Json"
+
+[AB_Cache_{987FD053-0817-42D3-BB85-6D8CC5C468E5}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "09c6d24db5ff0ec22ded7d498eab4ff2"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] Line0001 = "/D/gitProjects/builds/异步TGAJson处理/JX Jso"
+Cache_GenFile[0][Path] Line0002 = "n/异步Jsonl处理.exe"
+Cache_GenFile[1][Path] Line0001 = "/D/gitProjects/builds/异步TGAJson处理/JX Jso"
+Cache_GenFile[1][Path] Line0002 = "n/异步Jsonl处理.aliases"
+Cache_GenFile[2][Path] Line0001 = "/D/gitProjects/builds/异步TGAJson处理/JX Jso"
+Cache_GenFile[2][Path] Line0002 = "n/异步Jsonl处理.ini"
+Cache_GenFile[3][Path] Line0001 = "/D/gitProjects/builds/异步TGAJson处理/JX Jso"
+Cache_GenFile[3][Path] Line0002 = "n/data/HuaWeiJXPostBack.dll"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{1A8A09B8-55D1-4A85-A9A5-40AAB4A8549A}"
+Cache_GenGUID[1][String] = "{384BCA01-45A8-4525-966C-038B8F61C44B}"
+Cache_GenGUID[2][String] = "{8628C181-8B7E-463D-9533-AD2039AA9836}"
+Cache_GenGUID[3][String] = ""
+Cache_OutputDir[Path] = "/D/gitProjects/builds/异步TGAJson处理/JX Json"
+

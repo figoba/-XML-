@@ -1,0 +1,856 @@
+{
+	"factory": "CMZ00A2R",
+	"line": "XT-113",
+	"uut_info": {
+		"work_order": "SPZS06311C1",
+		"uut_type": "0",
+		"uut_name": "RawCable",
+		"uut_code": "04050185",
+		"serial_number": "1904050185/Z00A2R1828S001573",
+		"supplier":"CMZ00A2R"
+	},
+	"ate_info": {
+		"ate_name": "BU10-UPFORHW.luxshare.com.cn"
+	},
+	"program_info": {
+		"program_name": "DSC",
+		"program_ver": "1.0.0.0"
+	},
+	"uut_result": {
+		"operator": "C040345",
+		"operation_sequence": "1",
+		"site_code": "MP1",
+		"start_time": "2018-07-12 05:07:22",
+		"stop_time": "2018-07-12 05:07:28",
+		"test_result": "passed"
+	},
+	"test_item_list": [{
+		"id": "1",
+		"item_name": "DSC",
+		"start_time": "2018-07-12 05:07:22",
+		"stop_time": "2018-07-12 05:07:28",
+		"test_result": "passed",
+		"result_desc": "DSC",
+		"value_flag": "N",
+		"sub_test_item_list": [{
+			"id": "1",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "30",
+			"value_flag": "Y",
+			"test_value": "0.405387"
+		},{
+			"id": "2",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "33",
+			"value_flag": "Y",
+			"test_value": "0.39033"
+		},{
+			"id": "3",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "36",
+			"value_flag": "Y",
+			"test_value": "-0.367621"
+		},{
+			"id": "4",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "39",
+			"value_flag": "Y",
+			"test_value": "-2.14611"
+		},{
+			"id": "5",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "42",
+			"value_flag": "Y",
+			"test_value": "-3.07591"
+		},{
+			"id": "6",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "45",
+			"value_flag": "Y",
+			"test_value": "-3.34061"
+		},{
+			"id": "7",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "48",
+			"value_flag": "Y",
+			"test_value": "-3.40386"
+		},{
+			"id": "8",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "51",
+			"value_flag": "Y",
+			"test_value": "-3.42678"
+		},{
+			"id": "9",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "54",
+			"value_flag": "Y",
+			"test_value": "-3.44532"
+		},{
+			"id": "10",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "57",
+			"value_flag": "Y",
+			"test_value": "-3.47821"
+		},{
+			"id": "11",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "60",
+			"value_flag": "Y",
+			"test_value": "-3.48902"
+		},{
+			"id": "12",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "63",
+			"value_flag": "Y",
+			"test_value": "-3.48249"
+		},{
+			"id": "13",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "66",
+			"value_flag": "Y",
+			"test_value": "-3.58752"
+		},{
+			"id": "14",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "69",
+			"value_flag": "Y",
+			"test_value": "-3.57067"
+		},{
+			"id": "15",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "72",
+			"value_flag": "Y",
+			"test_value": "-3.58491"
+		},{
+			"id": "16",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "75",
+			"value_flag": "Y",
+			"test_value": "-3.60771"
+		},{
+			"id": "17",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "78",
+			"value_flag": "Y",
+			"test_value": "-3.6322"
+		},{
+			"id": "18",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "81",
+			"value_flag": "Y",
+			"test_value": "-3.65635"
+		},{
+			"id": "19",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "84",
+			"value_flag": "Y",
+			"test_value": "-3.67969"
+		},{
+			"id": "20",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "87",
+			"value_flag": "Y",
+			"test_value": "-3.70304"
+		},{
+			"id": "21",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "90",
+			"value_flag": "Y",
+			"test_value": "-3.72561"
+		},{
+			"id": "22",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "93",
+			"value_flag": "Y",
+			"test_value": "-3.75343"
+		},{
+			"id": "23",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "96",
+			"value_flag": "Y",
+			"test_value": "-3.77858"
+		},{
+			"id": "24",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "99",
+			"value_flag": "Y",
+			"test_value": "-3.80293"
+		},{
+			"id": "25",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "102",
+			"value_flag": "Y",
+			"test_value": "-3.83088"
+		},{
+			"id": "26",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "105",
+			"value_flag": "Y",
+			"test_value": "-3.85784"
+		},{
+			"id": "27",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "108",
+			"value_flag": "Y",
+			"test_value": "-3.88468"
+		},{
+			"id": "28",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "111",
+			"value_flag": "Y",
+			"test_value": "-3.90856"
+		},{
+			"id": "29",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "114",
+			"value_flag": "Y",
+			"test_value": "-3.93101"
+		},{
+			"id": "30",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "117",
+			"value_flag": "Y",
+			"test_value": "-3.95984"
+		},{
+			"id": "31",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "120",
+			"value_flag": "Y",
+			"test_value": "-3.99374"
+		},{
+			"id": "32",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "123",
+			"value_flag": "Y",
+			"test_value": "-4.02435"
+		},{
+			"id": "33",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "126",
+			"value_flag": "Y",
+			"test_value": "-4.05164"
+		},{
+			"id": "34",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "129",
+			"value_flag": "Y",
+			"test_value": "-4.0855"
+		},{
+			"id": "35",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "132",
+			"value_flag": "Y",
+			"test_value": "-4.12097"
+		},{
+			"id": "36",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "135",
+			"value_flag": "Y",
+			"test_value": "-4.16294"
+		},{
+			"id": "37",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "138",
+			"value_flag": "Y",
+			"test_value": "-4.21827"
+		},{
+			"id": "38",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "141",
+			"value_flag": "Y",
+			"test_value": "-4.29356"
+		},{
+			"id": "39",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "144",
+			"value_flag": "Y",
+			"test_value": "-4.40663"
+		},{
+			"id": "40",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "147",
+			"value_flag": "Y",
+			"test_value": "-4.62861"
+		},{
+			"id": "41",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "150",
+			"value_flag": "Y",
+			"test_value": "-5.00785"
+		},{
+			"id": "42",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "153",
+			"value_flag": "Y",
+			"test_value": "-5.15854"
+		},{
+			"id": "43",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "156",
+			"value_flag": "Y",
+			"test_value": "-5.09389"
+		},{
+			"id": "44",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "159",
+			"value_flag": "Y",
+			"test_value": "-5.08965"
+		},{
+			"id": "45",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "162",
+			"value_flag": "Y",
+			"test_value": "-5.11063"
+		},{
+			"id": "46",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "165",
+			"value_flag": "Y",
+			"test_value": "-5.13397"
+		},{
+			"id": "47",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "168",
+			"value_flag": "Y",
+			"test_value": "-5.15652"
+		},{
+			"id": "48",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "171",
+			"value_flag": "Y",
+			"test_value": "-5.17988"
+		},{
+			"id": "49",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "174",
+			"value_flag": "Y",
+			"test_value": "-5.20301"
+		},{
+			"id": "50",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "177",
+			"value_flag": "Y",
+			"test_value": "-5.22571"
+		},{
+			"id": "51",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "180",
+			"value_flag": "Y",
+			"test_value": "-5.24593"
+		},{
+			"id": "52",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "183",
+			"value_flag": "Y",
+			"test_value": "-5.26745"
+		},{
+			"id": "53",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "186",
+			"value_flag": "Y",
+			"test_value": "-5.28772"
+		},{
+			"id": "54",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "189",
+			"value_flag": "Y",
+			"test_value": "-5.3074"
+		},{
+			"id": "55",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "192",
+			"value_flag": "Y",
+			"test_value": "-5.33051"
+		},{
+			"id": "56",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "195",
+			"value_flag": "Y",
+			"test_value": "-5.35413"
+		},{
+			"id": "57",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "198",
+			"value_flag": "Y",
+			"test_value": "-5.38005"
+		},{
+			"id": "58",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "201",
+			"value_flag": "Y",
+			"test_value": "-5.40551"
+		},{
+			"id": "59",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "204",
+			"value_flag": "Y",
+			"test_value": "-5.43179"
+		},{
+			"id": "60",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "207",
+			"value_flag": "Y",
+			"test_value": "-5.45702"
+		},{
+			"id": "61",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "210",
+			"value_flag": "Y",
+			"test_value": "-5.4785"
+		},{
+			"id": "62",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "213",
+			"value_flag": "Y",
+			"test_value": "-5.50059"
+		},{
+			"id": "63",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "216",
+			"value_flag": "Y",
+			"test_value": "-5.52788"
+		},{
+			"id": "64",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "219",
+			"value_flag": "Y",
+			"test_value": "-5.5573"
+		},{
+			"id": "65",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "222",
+			"value_flag": "Y",
+			"test_value": "-5.5862"
+		},{
+			"id": "66",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "225",
+			"value_flag": "Y",
+			"test_value": "-5.60989"
+		},{
+			"id": "67",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "228",
+			"value_flag": "Y",
+			"test_value": "-5.63083"
+		},{
+			"id": "68",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "231",
+			"value_flag": "Y",
+			"test_value": "-5.65367"
+		},{
+			"id": "69",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "234",
+			"value_flag": "Y",
+			"test_value": "-5.67666"
+		},{
+			"id": "70",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "237",
+			"value_flag": "Y",
+			"test_value": "-5.69754"
+		},{
+			"id": "71",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "240",
+			"value_flag": "Y",
+			"test_value": "-5.71804"
+		},{
+			"id": "72",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "243",
+			"value_flag": "Y",
+			"test_value": "-5.74106"
+		},{
+			"id": "73",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "246",
+			"value_flag": "Y",
+			"test_value": "-5.76215"
+		},{
+			"id": "74",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "249",
+			"value_flag": "Y",
+			"test_value": "-5.78222"
+		},{
+			"id": "75",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "252",
+			"value_flag": "Y",
+			"test_value": "-5.80249"
+		},{
+			"id": "76",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "255",
+			"value_flag": "Y",
+			"test_value": "-5.82358"
+		},{
+			"id": "77",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "258",
+			"value_flag": "Y",
+			"test_value": "-5.84697"
+		},{
+			"id": "78",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "261",
+			"value_flag": "Y",
+			"test_value": "-5.87277"
+		},{
+			"id": "79",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "264",
+			"value_flag": "Y",
+			"test_value": "-5.89824"
+		},{
+			"id": "80",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "267",
+			"value_flag": "Y",
+			"test_value": "-5.92347"
+		},{
+			"id": "81",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "270",
+			"value_flag": "Y",
+			"test_value": "-5.94881"
+		},{
+			"id": "82",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "273",
+			"value_flag": "Y",
+			"test_value": "-5.97614"
+		},{
+			"id": "83",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "276",
+			"value_flag": "Y",
+			"test_value": "-6.00868"
+		},{
+			"id": "84",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "279",
+			"value_flag": "Y",
+			"test_value": "-6.03891"
+		},{
+			"id": "85",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "282",
+			"value_flag": "Y",
+			"test_value": "-6.06725"
+		},{
+			"id": "86",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "285",
+			"value_flag": "Y",
+			"test_value": "-6.09295"
+		},{
+			"id": "87",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "288",
+			"value_flag": "Y",
+			"test_value": "-6.11251"
+		},{
+			"id": "88",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "291",
+			"value_flag": "Y",
+			"test_value": "-6.13093"
+		},{
+			"id": "89",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "294",
+			"value_flag": "Y",
+			"test_value": "-6.14892"
+		},{
+			"id": "90",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "297",
+			"value_flag": "Y",
+			"test_value": "-6.1657"
+		},{
+			"id": "91",
+			"sub_item_name": "DSC_Cable",
+			"start_time": "2018-07-12 05:07:22",
+			"stop_time": "2018-07-12 05:07:28",
+			"test_result": "passed",
+			"result_desc": "300",
+			"value_flag": "Y",
+			"test_value": "-6.18173"
+		}]
+	}]
+}

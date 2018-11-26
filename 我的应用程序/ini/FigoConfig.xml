@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ParameterList>
+	<para watchpath="\\172.20.20.113\emc\HPTS\XML" timeout="21600" extension="*.zip" temppath="E:\xmlconvert\temp" failpath="E:\xmlconvert\fail" successpath="E:\xmlconvert\success" uploadpath="\\172.20.20.86\HuaweiData\DataRoot\XML"/>
+ <DBSet>
+        <!-- DB -->
+        <ConnectInfo Server="172.20.23.107" dB="MESDatacenter" pSW="data'songyy" user="sa" />
+        <ConnectInfo Server="172.20.23.107" dB="HTPSDB" pSW="data'songyy" user="sa" />
+</DBSet>
+<PassYeild>0.98
+</PassYeild> 
+</ParameterList>

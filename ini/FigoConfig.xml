@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ParameterList>
+	<para watchpath="D:\testzip" timeout="10" extension="*.zip" temppath="d:\xmlconvert\temp" failpath="d:\xmlconvert\fail" successpath="d:\xmlconvert\success" uploadpath="d:\xmlconvert\upload"/>
+ <DBSet>
+        <!-- DB -->
+        <ConnectInfo Server="172.20.23.107" dB="MESDatacenter" pSW="data'songyy" user="sa" />
+        <ConnectInfo Server="172.20.23.107" dB="HTPSDB" pSW="data'songyy" user="sa" />
+</DBSet>
+<PassYeild>0.98
+</PassYeild>
+ </ParameterList>

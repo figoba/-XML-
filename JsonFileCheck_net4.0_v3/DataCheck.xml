@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DataType name ="JSON" namespace ="JSONFileCheck.JsonModel" type ="DataInfo">
+  <DataField name ="factory" dataType ="string" isRequired ="Y" maxLength ="100" valList ="CMZ00A2R"></DataField>
+  <DataField name ="line" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+  <DataField name ="uut_info" dataType ="arrey" isRequired ="Y">
+    <DataField name ="work_order" dataType ="string" isRequired ="Y" maxLength ="100"></DataField>
+    <DataField name ="uut_type" dataType ="string" isRequired ="Y" maxLength ="100" valList ="0,1,2"></DataField>
+    <DataField name ="uut_name" dataType ="string" isRequired ="Y" maxLength ="100"></DataField>
+    <DataField name ="uut_code" dataType ="string" isRequired ="Y" maxLength ="100"></DataField>
+    <DataField name ="serial_number" dataType ="string" isRequired ="Y" maxLength ="100"></DataField>
+    <DataField name ="supplier" dataType ="string" isRequired ="N" maxLength ="100" reqField ="uut_type" reqFieldValue="1" valList ="CM4C"></DataField>
+    <DataField name ="date_code" dataType ="string" isRequired ="N" maxLength ="100" reqField ="uut_type" reqFieldValue="1"></DataField>
+    <DataField name ="lot_code" dataType ="string" isRequired ="N" maxLength ="100" reqField ="uut_type" reqFieldValue="1"></DataField>
+    <DataField name ="mould" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+    <DataField name ="cavity" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+    <DataField name ="colour" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+  </DataField>
+  <DataField name ="ate_info" dataType ="arrey" isRequired ="Y">
+    <DataField name ="ate_name" dataType ="string" isRequired ="Y" maxLength ="100"></DataField>
+    <DataField name ="computer_name" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+    <DataField name ="fixuer_id" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+  </DataField>
+  <DataField name ="program_info" dataType ="arrey" isRequired ="Y">
+    <DataField name ="program_name" dataType ="string" isRequired ="Y" maxLength ="100"></DataField>
+    <DataField name ="program_ver" dataType ="string" isRequired ="Y" maxLength ="100"></DataField>
+  </DataField>
+  <DataField name ="uut_result" dataType ="arrey" isRequired ="Y">
+    <DataField name ="operator2" dataType ="string" isRequired ="Y" maxLength ="100"></DataField>
+    <DataField name ="operation_sequence" dataType ="string" isRequired ="Y" maxLength ="100"></DataField>
+    <DataField name ="site_code" dataType ="string" isRequired ="Y" maxLength ="100"></DataField>
+    <DataField name ="start_time" dataType ="date" isRequired ="Y" maxLength ="100"></DataField>
+    <DataField name ="stop_time" dataType ="date" isRequired ="Y" maxLength ="100"></DataField>
+    <DataField name ="test_result" dataType ="string" isRequired ="Y" maxLength ="100" valList ="passed,failed"></DataField>
+  </DataField>
+  <DataField name ="test_item_list" dataType ="list" isRequired ="N">
+    <DataField name ="id" dataType ="string" isRequired ="Y" maxLength ="100"></DataField>
+    <DataField name ="item_name" dataType ="string" isRequired ="Y" maxLength ="100"></DataField>
+    <DataField name ="start_time" dataType ="date" isRequired ="Y" maxLength ="100"></DataField>
+    <DataField name ="stop_time" dataType ="date" isRequired ="Y" maxLength ="100"></DataField>
+    <DataField name ="test_result" dataType ="string" isRequired ="Y" maxLength ="100" valList ="passed,failed"></DataField>
+    <DataField name ="result_desc" dataType ="string" isRequired ="N" maxLength ="4000"></DataField>
+    <DataField name ="value_flag" dataType ="string" isRequired ="Y" maxLength ="100" valList ="Y,N"></DataField>
+    <DataField name ="lower_limit" dataType ="number" isRequired ="N" maxLength ="100"></DataField>
+    <DataField name ="upper_limit" dataType ="number" isRequired ="N" maxLength ="100"></DataField>
+    <DataField name ="test_value" dataType ="number" isRequired ="N" maxLength ="100" reqField ="value_flag" reqFieldValue="Y"></DataField>
+    <DataField name ="segment_1" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+    <DataField name ="segment_2" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+    <DataField name ="segment_3" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+    <DataField name ="segment_4" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+    <DataField name ="segment_5" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+    <DataField name ="segment_6" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+    <DataField name ="sub_test_item_list" dataType ="list" isRequired ="N">
+      <DataField name ="id" dataType ="string" isRequired ="Y" maxLength ="100"></DataField>
+      <DataField name ="sub_item_name" dataType ="string" isRequired ="Y" maxLength ="100"></DataField>
+      <DataField name ="start_time" dataType ="date" isRequired ="Y" maxLength ="100"></DataField>
+      <DataField name ="stop_time" dataType ="date" isRequired ="Y" maxLength ="100"></DataField>
+      <DataField name ="test_result" dataType ="string" isRequired ="Y" maxLength ="100" valList ="passed,failed"></DataField>
+      <DataField name ="result_desc" dataType ="string" isRequired ="N" maxLength ="4000"></DataField>
+      <DataField name ="value_flag" dataType ="string" isRequired ="Y" maxLength ="100" valList ="Y,N"></DataField>
+      <DataField name ="lower_limit" dataType ="number" isRequired ="N" maxLength ="100"></DataField>
+      <DataField name ="upper_limit" dataType ="number" isRequired ="N" maxLength ="100"></DataField>
+      <DataField name ="test_value" dataType ="number" isRequired ="N" maxLength ="100" reqField ="value_flag" reqFieldValue="Y"></DataField>
+      <DataField name ="segment_1" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+      <DataField name ="segment_2" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+      <DataField name ="segment_3" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+      <DataField name ="segment_4" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+      <DataField name ="segment_5" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+      <DataField name ="segment_6" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+    </DataField>
+  </DataField>
+  <DataField name ="segment_1" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+  <DataField name ="segment_2" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+  <DataField name ="segment_3" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+  <DataField name ="segment_4" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+  <DataField name ="segment_5" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+  <DataField name ="segment_6" dataType ="string" isRequired ="N" maxLength ="100"></DataField>
+</DataType>
